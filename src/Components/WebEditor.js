@@ -55,7 +55,7 @@ function LaunguageManager() {
         <Row noGutters={true}>
           <Col md={4} className="editor-lang">
             <div className="editor-text">
-              <i className="fab fa-html5"> </i> Html
+              <i className="fab fa-html5"> </i> HTML
             </div>
             <Editor
               launguage="xml"
@@ -68,7 +68,7 @@ function LaunguageManager() {
 
           <Col md={4} className="editor-lang">
             <div className="editor-text">
-              <i className="fab fa-css3-alt"></i> Css
+              <i className="fab fa-css3-alt"></i> CSS
             </div>
             <Editor
               launguage="css"
@@ -81,7 +81,7 @@ function LaunguageManager() {
 
           <Col md={4} className="editor-lang">
             <div className="editor-text">
-              <i className="fab fa-js-square"></i> Js
+              <i className="fab fa-js-square"></i> JS
             </div>
             <Editor
               launguage="javascript"
